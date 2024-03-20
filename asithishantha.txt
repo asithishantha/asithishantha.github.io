@@ -1,0 +1,81 @@
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~</span><span id="c">$</span>cd <!-- kjsdfhkjdhsfkjdshfkj -->portfolio
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->asithishantha.txt<br/><br/>
+
+Hey There! This is Asith Ishantha Madurawala's portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->intro.txt<br/><br/>
+
+Hi, I'm Asith Ishantha Madurawala<br/>
+アシットです。よろしくお願いします。
+September 11, 1995, Colombo, Sri Lanka.
+Grew up in Ja Ela, Sri Lanka.
+Now,    Undegraduate student of Future University Hakodate,Japan.
+Future, I want to be a full time system developer.
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->experience.txt<br/><br/>
+
+2020 - 2021 : Software Engineer Intern, Hsenid Outsourcing (PVT),Ltd.
+2019 - Sri Lanka Representative, Sakura Science Organization,Japan.
+
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->education.txt<br/><br/>
+
+2021- Present
+BSc (Hons.) Information System(Reading)
+Faculty of Information Architecture, Future University, Hakodate (Japan)
+Grade point average : 3.59
+
+2018- 2021
+Higher Diploma in Software Engineering
+Lanka Nippon Biztech Institute,Maharagama, Sri Lanka
+Grade point average : 3.59
+
+2016-2018
+Diploma in Software Engineering
+SLIIT, Sri Lanka
+Grade point average : 2.56
+
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->language.txt<br/><br/>
+
+Sinhala : 4/5 => Native
+English : 3/5 => Intermediate
+Japanese : 3/5 => Intermediate, JLPT N2 knowledge (Reading IT Bachelor degree in Japanese language)
+
+
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->programmingSkills.txt<br/><br/>
+
+Now, Expertise about ANN, KMeans, KNN, .Net C#, Python, Matlab, Java, C, Wordpress, HTML CSS JS, Pebble Template, Selenium, WebScraping, Postman, MVC
+Backend  => 6/10
+Frontend => 7/10
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->programmingLanguges.txt<br/><br/>
+
+Advanced => HTML CSS JS,Python, Jupyter Notebook
+Intermediate => Java, C++, PHP, C#, Matlab, C, Git, Bash Script
+Beginner => Node Js, Flutter
+
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Interest.txt<br/><br/>
+
+UX/UI,Machine Learning,Image Processing, Cloud Technology, Politics
+Admin => Admin of japanese culture interest group
+Blogger => https://bokettoshinaide.blogspot.com/ (About technology or programming)
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Games.txt<br/><br/>
+
+Sports => Chess, Cricket
+Games => COD
+
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Contact.txt<br/><br/>
+Email : b1019256@fun.ac.jp
+Twitter : @AsithIshantha
+Instagram : asithishantha
+Github : https://github.com/asithishantha
+
+
+<p>Cheers!</p>
+
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span><br/><br/>
