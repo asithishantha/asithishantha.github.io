@@ -9,11 +9,15 @@ Hi, I'm Asith Ishantha Madurawala<br/>
 アシットです。よろしくお願いします。
 September 11, 1995, Colombo, Sri Lanka.
 Grew up in Ja Ela, Sri Lanka.
-Now,    Undegraduate student of Future University Hakodate,Japan.
-Future, I want to be a full time system developer.
+Now live in Hokkaido.
+Recently I am working as a full time System Engineer 
+and
+I am graduated from Future Public University Hokkaido Hakodate,Japan.公立はこだて未来大学
 
 <span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->experience.txt<br/><br/>
 
+2023 - 2024 : System Engineer, Diamondhead Sapporo.
+2022 - 2023 : Long-Term Intern, Diamondhead Sapporo.
 2020 - 2021 : Software Engineer Intern, Hsenid Outsourcing (PVT),Ltd.
 2019 - Sri Lanka Representative, Sakura Science Organization,Japan.
 
@@ -40,7 +44,7 @@ Grade point average : 2.56
 
 Sinhala : 4/5 => Native
 English : 3/5 => Intermediate
-Japanese : 3/5 => Intermediate, JLPT N2 knowledge (Reading IT Bachelor degree in Japanese language)
+Japanese : 3/5 => Intermediate, Passed N2, Following N1( Completed the IT Bachelor degree in Japanese language)
 
 
 
@@ -53,7 +57,7 @@ Frontend => 7/10
 <span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->programmingLanguges.txt<br/><br/>
 
 Advanced => HTML CSS JS,Python, Jupyter Notebook
-Intermediate => Java, C++, PHP, C#, Matlab, C, Git, Bash Script
+Intermediate => Laravel, Django, React js, TypeScript, Java, C++, PHP, C#, Matlab, C, Git, Bash Script
 Beginner => Node Js, Flutter
 
 
